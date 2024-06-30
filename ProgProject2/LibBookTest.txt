@@ -1,0 +1,27 @@
+Book 1 author:
+Charles Dickens
+Book 2 title:
+Ferret Palooza
+Book 2 borrowed:
+0
+Book 2 borrowed twice:
+2
+Book 1 refNumber being set to "AC"
+The reference number must be at least 3 characters long
+Book 1 refNumber being set to "ABC"
+Book 1 printDetails:
+********************************************
+Title:  Oliver Twist
+Author: Charles Dickens
+Pages:  496
+Reference Number: ABC
+Number of times borrowed: 0
+********************************************
+Book 2 printDetails:
+********************************************
+Title:  Ferret Palooza
+Author: Thomas Nocera
+Pages:  1080
+Reference Number: ZZZ
+Number of times borrowed: 2
+********************************************

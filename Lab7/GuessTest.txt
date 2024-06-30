@@ -1,0 +1,14 @@
+Guess the number from 1 to 10: 
+5
+Your guess was smaller than the number, try again: 
+8
+Your guess was bigger than the number, try again: 
+7
+You guessed it! You had to guess 3 times.
+You guessed too low 1 times.
+You guessed too high 1 times.
+Guess the number from 1 to 10: 
+5
+You guessed it! You had to guess 1 times.
+You guessed too low 0 times.
+You guessed too high 0 times.
