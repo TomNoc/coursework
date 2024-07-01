@@ -1,0 +1,14 @@
+Enter the current salary: 40000
+Enter the performance rating (Excellent, Good, or Poor): Excellent
+
+Current Salary: $40,000.00
+Amount of your raise: $2,400.00
+Your new salary: $42,400.00
+
+Enter the current salary: 92865
+Enter the performance rating (Excellent, Good, or Poor): Good
+
+Current Salary: $92,865.00
+Amount of your raise: $3,714.60
+Your new salary: $96,579.60
+
