@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=fn\ ln\ avg\ whereLive\ pNumber\ mjr
-comment0.target=Student(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
-comment1.params=
-comment1.target=void\ print()
-numComments=2
