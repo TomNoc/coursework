@@ -1,0 +1,11 @@
+Complex Variable Z:
+Z = 1.000 + i(1.000)
+Complex Variable C:
+Z = 0.000 + i(2.000)
+In polar form, respectively:
+1.414e^(i(0.785 + 2?n)
+2.000e^(i(1.571 + 2?n)
+Printing the conjugate of c
+Z = 0.000 + i(-2.000)
+Multiplying c and z
+Z = -2.000 + i(2.000)

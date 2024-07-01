@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ComplexVar()
+comment1.params=reNum\ imNum
+comment1.target=ComplexVar(double,\ double)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment10.text=\ \r\n\ \ \ \ public\ String\ findRoots(double\ root){\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n
+comment2.params=
+comment2.target=double\ getReNumber()
+comment3.params=
+comment3.target=double\ getImNumber()
+comment4.params=reNum
+comment4.target=void\ setReNumber(double)
+comment5.params=imNum
+comment5.target=void\ setImNumber(double)
+comment6.params=
+comment6.target=double\ modZ()
+comment7.params=
+comment7.target=java.lang.String\ toPolar()
+comment8.params=c
+comment8.target=ComplexVar\ multiply(ComplexVar)
+comment9.params=
+comment9.target=ComplexVar\ conjugate()
+numComments=11
