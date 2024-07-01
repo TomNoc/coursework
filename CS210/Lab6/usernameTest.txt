@@ -1,0 +1,46 @@
+THE COMPUTER USERS
+BEFORE SETTING THE USERNAMES 
+The Computer Users on my network are: 
+Lincoln, Abraham : null
+Gandhi, Mahatama : null
+Einstein, Albert : null
+Default, User : null
+
+SETTING THE USERNAMES 
+
+GETTING THE USERNAMES 
+ALinco90
+MGandh47
+AEinst75
+UDefau38
+THE COMPUTER USERS
+
+AFTER SETTING THE USERNAMES 
+The Computer Users on my network are: 
+Lincoln, Abraham : ALinco90
+Gandhi, Mahatama : MGandh47
+Einstein, Albert : AEinst75
+Default, User : UDefau38
+THE COMPUTER USERS
+BEFORE SETTING THE USERNAMES 
+The Computer Users on my network are: 
+Lincoln, Abraham : null
+Gandhi, Mahatama : null
+Einstein, Albert : null
+Default, User : null
+
+SETTING THE USERNAMES 
+
+GETTING THE USERNAMES 
+ALinco88
+MGandh86
+AEinst85
+UDefau52
+THE COMPUTER USERS
+
+AFTER SETTING THE USERNAMES 
+The Computer Users on my network are: 
+Lincoln, Abraham : ALinco88
+Gandhi, Mahatama : MGandh86
+Einstein, Albert : AEinst85
+Default, User : UDefau52
